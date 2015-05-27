@@ -1,0 +1,9 @@
+*~
+*#
+.#*
+*.bak
+## Lisp
+*.fasl
+*.FASL
+*.x86f
+*.lisp-temp
